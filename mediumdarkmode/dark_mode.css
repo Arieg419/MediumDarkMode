@@ -1,0 +1,184 @@
+:root {
+  --background-color: #000;
+  --text-color: #abb2bf;
+}
+
+/* --background-color: #282c34;
+--text-color: #abb2bf; */
+
+h1,
+h2,
+h3,
+h4,
+time,
+blockquote {
+  color: var(--text-color) !important;
+}
+
+a,
+.markup--anchor,
+.markup--p-anchor {
+  color: #61afef !important;
+}
+
+img {
+  /* border: 1px solid var(--text-color) !important; */
+}
+
+/* Author Caption */
+.ds-link,
+.ds-link--styleSubtle,
+.ui-captionStrong,
+.u-inlineBlock,
+.link,
+.link--darken,
+.link--darker,
+.is-touched {
+  color: var(--text-color) !important;
+}
+
+.v-glyph--m2 .uiScale-caption--regular .ui-captionStrong {
+  color: var(--text-color) !important;
+}
+
+.uiScale-caption--regular .ui-caption {
+  color: var(--text-color) !important;
+}
+
+.v-glyph--m2 .uiScale-caption--regular .ui-caption {
+  color: var(--text-color) !important;
+}
+
+.graf .graf--h4 .graf--leading {
+  color: var(--text-color) !important;
+}
+
+.uiScale-caption--regular .ui-caption.ui-xs-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.ui-caption .postMetaInline .js-testPostMetaInlineSupplemental {
+  color: var(--text-color) !important;
+}
+
+.uiScale-caption--regular .ui-captionStrong {
+  color: var(--text-color) !important;
+}
+
+/* Article */
+.postArticle {
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Call to clap for article */
+.u-textColorDarker,
+.link,
+.u-textColorDarker .u-fontSize22,
+.v-glyph--m2 .uiScale-ui--small .ui-body,
+.v-glyph--m2
+  .uiScale-ui--small
+  .ui-summary
+  .v-glyph--m2
+  .uiScale-ui--small
+  .ui-h3
+  .uiScale-ui--small
+  .ui-h3 {
+  color: var(--text-color) !important;
+}
+
+/* Recommended articles row */
+.row {
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Recommended article */
+.u-backgroundColorGrayLight {
+  background-color: var(--background-color) !important;
+}
+
+.u-backgroundGrayLightest {
+  background: var(--background-color) !important;
+}
+
+.u-borderBox,
+.u-flexColumn {
+  background-color: var(--background-color) !important;
+}
+
+.uiScale {
+  color: var(--text-color) !important;
+}
+
+.uiScale
+  .uiScale-ui--regular
+  .uiScale-caption--small
+  .u-textColorNormal
+  .u-marginBottom7 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--small .ui-h3.ui-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--small .ui-body,
+.uiScale-ui--small .ui-summary {
+  color: var(--text-color) !important;
+}
+
+/* Most highlighted - green */
+/* body.is-withMagicUnderlines
+  .postArticle.is-withAccentColors
+  .markup--quote.is-other {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+.postArticle.is-withAccentColors .markup--quote.is-other {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+body.is-withMagicUnderlines .markup--quote.is-other {
+  background-color: transparent;
+  background-image: none !important;
+}
+
+.markup--quote.is-other {
+  background-color: transparent;
+  background-image: none !important;
+} */
+
+/* Comments */
+
+.is-supplementalPostContentLoaded .supplementalPostContent {
+  background-color: var(--background-color) !important;
+}
+
+/* Responses */
+
+.postActions .js-postActionsFooter {
+  color: var(--text-color) !important;
+  background-color: var(--background-color) !important;
+}
+
+.responsesStream-title .heading-title {
+  color: var(--text-color) !important;
+}
+
+.streamItemConversation .heading-title {
+  color: var(--text-color) !important;
+}
+
+/* Response Card */
+.cardChromeless {
+  background-color: var(--background-color) !important;
+  border: 1px solid var(--text-color) !important;
+}
+
+.postArticle.postArticle--short:not(.postArticle--letter) {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--text-color);
+}

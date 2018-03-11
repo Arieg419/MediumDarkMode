@@ -1,0 +1,162 @@
+h1,
+h2,
+h3,
+h4,
+time,
+blockquote {
+  color: #000 !important;
+}
+
+img {
+  /* border: 1px solid #000 !important; */
+}
+
+/* Author Caption */
+.ds-link,
+.ds-link--styleSubtle,
+.ui-captionStrong,
+.u-inlineBlock,
+.link,
+.link--darken,
+.link--darker,
+.is-touched {
+  color: #000 !important;
+}
+
+.v-glyph--m2 .uiScale-caption--regular .ui-captionStrong {
+  color: #000 !important;
+}
+
+.uiScale-caption--regular .ui-caption {
+  color: #000 !important;
+}
+
+.v-glyph--m2 .uiScale-caption--regular .ui-caption {
+  color: #000 !important;
+}
+
+.graf .graf--h4 .graf--leading {
+  color: #000 !important;
+}
+
+.uiScale-caption--regular .ui-caption.ui-xs-clamp2 {
+  color: #000 !important;
+}
+
+.ui-caption .postMetaInline .js-testPostMetaInlineSupplemental {
+  color: #000 !important;
+}
+
+.uiScale-caption--regular .ui-captionStrong {
+  color: #000 !important;
+}
+
+/* Article */
+.postArticle {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+/* Call to clap for article */
+.u-textColorDarker,
+.link,
+.u-textColorDarker .u-fontSize22,
+.v-glyph--m2 .uiScale-ui--small .ui-body,
+.v-glyph--m2
+  .uiScale-ui--small
+  .ui-summary
+  .v-glyph--m2
+  .uiScale-ui--small
+  .ui-h3
+  .uiScale-ui--small
+  .ui-h3 {
+  color: #000 !important;
+}
+
+/* Recommended articles row */
+.row {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+/* Recommended article */
+.u-borderBox,
+.u-flexColumn {
+  background-color: #fff !important;
+}
+
+.uiScale {
+  color: #000 !important;
+}
+
+.uiScale
+  .uiScale-ui--regular
+  .uiScale-caption--small
+  .u-textColorNormal
+  .u-marginBottom7 {
+  color: #000 !important;
+}
+
+.uiScale-ui--small .ui-h3.ui-clamp2 {
+  color: #000 !important;
+}
+
+.uiScale-ui--small .ui-body,
+.uiScale-ui--small .ui-summary {
+  color: #000 !important;
+}
+
+/* Most highlighted - green */
+body.is-withMagicUnderlines
+  .postArticle.is-withAccentColors
+  .markup--quote.is-other {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+.postArticle.is-withAccentColors .markup--quote.is-other {
+  background-color: transparent !important;
+  background-image: none !important;
+}
+
+body.is-withMagicUnderlines .markup--quote.is-other {
+  background-color: transparent;
+  background-image: none !important;
+}
+
+.markup--quote.is-other {
+  background-color: transparent;
+  background-image: none !important;
+}
+
+/* Comments */
+
+.is-supplementalPostContentLoaded .supplementalPostContent {
+  background-color: #fff !important;
+}
+
+/* Responses */
+
+.postActions .js-postActionsFooter {
+  color: #000 !important;
+  background-color: #fff !important;
+}
+
+.responsesStream-title .heading-title {
+  color: #000 !important;
+}
+
+.streamItemConversation .heading-title {
+  color: #000 !important;
+}
+
+/* Response Card */
+.cardChromeless {
+  background-color: #fff !important;
+  border: 1px solid #000 !important;
+}
+
+.postArticle.postArticle--short:not(.postArticle--letter) {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #000;
+}
