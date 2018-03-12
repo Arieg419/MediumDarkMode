@@ -25,6 +25,145 @@ img {
   /* border: 1px solid var(--text-color) !important; */
 }
 
+/* Sticky navbar */
+.metabar,
+.u-clearfix,
+.js-metabar,
+.is-hiddenWhenMinimized {
+  background-color: var(--background-color) !important;
+}
+
+/* Postactions - appears when we scroll up */
+.postActions,
+.u-boxShadowNormal,
+.u-paddingTop4,
+.u-paddingBottom2 {
+  background-color: var(--background-color) !important;
+}
+
+svg:not(:root) {
+  fill: var(--text-color);
+}
+
+/* Homepage summary */
+.uiScale,
+.ui-summary {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--small .ui-body.ui-clamp2,
+.uiScale-ui--small .ui-summary.ui-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--small .ui-h4.ui-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--small .ui-h3.ui-clamp3 {
+  color: var(--text-color) !important;
+}
+
+.u-paddingLeft10 ~ .js-sectionItem .u-marginTop4 {
+  color: var(--text-color) !important;
+}
+
+.js-sectionItem:nth-child(3) .u-marginTop4,
+.u-borderBottomLighter + .js-sectionItem .u-marginTop4 {
+  color: var(--text-color) !important;
+}
+
+.js-sectionItem:nth-child(3) .ui-sm-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.u-padding16.u-height260 .u-paddingTop4 {
+  color: var(--text-color) !important;
+}
+
+.is-maximized {
+  background: black !important;
+}
+
+.readNextPromo--chromeless,
+.is-minimized {
+  background-color: var(--background-color);
+  color: var(--text-color) !important;
+}
+
+.js-topicName {
+  color: var(--text-color) !important;
+}
+
+/* Reading list header */
+.uiScale-ui--small .ui-h2 {
+  color: var(--text-color) !important;
+}
+
+/* Reading list / Popular on Medium list */
+.u-backgroundGrayLightest {
+  background: var(--background-color) !important;
+}
+
+/* Author link */
+.uiScale .ui-body .ds-link--styleSubtle,
+.uiScale .ui-caption .ds-link--styleSubtle,
+.uiScale .ui-captionStrong .ds-link--styleSubtle {
+  color: var(--text-color) !important;
+}
+
+/* Reading time estimate */
+.uiScale-caption--small .ui-caption {
+  color: var(--text-color) !important;
+}
+
+.uiScale .ui-caption {
+  color: var(--text-color) !important;
+}
+
+/* Homepage recommended */
+.ui-h1
+  .u-fontSize32
+  .u-xs-fontSize24
+  .u-fontWeightBold
+  .u-textColorDarkest
+  .u-letterSpacing003
+  .u-paddingBottom5
+  .js-topicName {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--large .ui-h1 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--small .ui-h2.ui-clamp3 {
+  color: var(--text-color) !important;
+}
+
+.u-borderBottomLighter + .js-sectionItem .ui-sm-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.u-paddingLeft10 ~ .js-sectionItem .ui-sm-clamp2,
+.u-paddingRight10 .ui-sm-clamp2 {
+  color: var(--text-color) !important;
+}
+
+/* For you text */
+.u-textColorDarker {
+  color: var(--text-color) !important;
+}
+
+.u-uiDisplayBold {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--large .ui-body,
+.uiScale-ui--large .ui-summary {
+  color: var(--text-color) !important;
+}
+
 /* Author Caption */
 .ds-link,
 .ds-link--styleSubtle,
@@ -54,6 +193,15 @@ img {
 }
 
 .uiScale-caption--regular .ui-caption.ui-xs-clamp2 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--regular .ui-h3.ui-clamp3 {
+  color: var(--text-color) !important;
+}
+
+.uiScale-ui--regular .ui-body.ui-clamp3,
+.uiScale-ui--regular .ui-summary.ui-clamp3 {
   color: var(--text-color) !important;
 }
 
